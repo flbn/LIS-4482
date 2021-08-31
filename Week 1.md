@@ -1,3 +1,5 @@
+# Week 1
+
 ## Structure of Data Communication
 -  A Data Communication system is composed of three elements: a source of data, a communication channel, and a receiver.
 - Source:
@@ -18,3 +20,9 @@
 ## Noise
 - Refers to anything which blocks between message source and destination.
 - Noise can lead to the inconsistency of information between source and destination.
+
+## Entropy
+- Refers to unknown information moving from sender to receiver.
+
+## Redundancy
+- Refers to repetitive information moving from sender to receiver.
