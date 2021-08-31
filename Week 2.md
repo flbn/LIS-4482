@@ -18,5 +18,5 @@
 	- Ex. 8-bit sampling is of a lower quality than 32-bit sampling. The payload is higher, as we are increasing the amount of information sent. This results in larger file sizes.
 
 ## Nyquist-Shannon sampling
-- ** *I talked to him after class, we don't have to actually know this but it might show up as an extra credit question!* **
+- ** *I talked to him after class, we don't have to actually know this but it might show up as an extra credit question!*  **
 - To faithfully reproduce the human voice it requires a sampling rate of 4000 cycles x 2 samples for each hertz x 8 bits for each sample. Simple mathematics tells us that this totals a 64,000 bytes (more commonly written as 64kb) sampling rate per second. Due to modern compression algorithms and techniques, we are able to substantially lower this number.
